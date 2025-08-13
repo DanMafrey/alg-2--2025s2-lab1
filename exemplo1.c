@@ -3,8 +3,7 @@
 int main(){
   printf("mackenzie - FCI\n");
   printf("algoritmos e ");
-  prinft("prog. II\n");
+  printf("prog. II\n");
 
-  system("pause");
   return 0;
 }
